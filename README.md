@@ -1,6 +1,9 @@
 # The dual-attention model
 
-The repository implements GCN-based GAE for monitoring technology convergence. The **example.py** demonstrates how to use GCN to generate patent and technological keywords vectors and technology intensity coordinates.
+The repository implements the dual-attention model for extracting web keywords.
+
+
+The **example.py** demonstrates how to use GCN to generate patent and technological keywords vectors and technology intensity coordinates.
 
 
 ### With pip
